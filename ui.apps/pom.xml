@@ -8,7 +8,7 @@
     <parent>
         <groupId>be.ida.jetpack</groupId>
         <artifactId>documentation</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -84,11 +84,12 @@
                     <name>Jetpack-DropTargets</name>
                     <group>Jetpack</group>
                     <embeddeds>
-                        <embedded>
+                        <!-- No java code yet -->
+                        <!--embedded>
                             <groupId>be.ida.jetpack</groupId>
                             <artifactId>documentation.core</artifactId>
                             <target>/apps/jetpack/documentation/install</target>
-                        </embedded>
+                        </embedded-->
                     </embeddeds>
                 </configuration>
             </plugin>

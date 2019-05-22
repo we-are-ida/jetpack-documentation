@@ -4,7 +4,7 @@
     <groupId>be.ida.jetpack</groupId>
     <artifactId>documentation</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Jetpack - Documentation</name>
     <description>Jetpack Documentation.</description>
