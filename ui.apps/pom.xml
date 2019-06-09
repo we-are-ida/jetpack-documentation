@@ -81,7 +81,7 @@
                     <filterSource>src/main/content/META-INF/vault/filter.xml</filterSource>
                     <verbose>true</verbose>
                     <failOnError>true</failOnError>
-                    <name>Jetpack-DropTargets</name>
+                    <name>Jetpack-Documentation</name>
                     <group>Jetpack</group>
                     <embeddeds>
                         <!-- No java code yet -->

@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ida-mediafoundry/jetpack-documentation.svg?branch=master)](https://travis-ci.org/ida-mediafoundry/jetpack-documentation)
 # Jetpack - Documentation
 (powered by iDA Mediafoundry)
 
